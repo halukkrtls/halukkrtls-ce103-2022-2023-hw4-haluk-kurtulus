@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\haluk\eclipse-workspace\ce103\ce103_2022_2023_hw4_haluk_kurtulus\.metadata\.plugins\org.eclipse.jdt.core
